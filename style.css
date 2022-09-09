@@ -1,0 +1,87 @@
+.box{
+    display: flex;
+}
+
+img{
+    width: 210px;
+    height: 220px;
+}
+
+a{
+    text-decoration: none;
+    color: #F09595;
+}
+
+.clic{
+    width: 284px;
+    height: 60px;
+}
+
+.text1{
+    list-style-type: none;
+    width: 74px;
+    height: 20px;
+    background: #C4C4C4;
+}
+
+.click{
+    list-style-type: none;
+    width: 1em;
+    height: 1.1em;
+    background: silver;
+    border-radius: 10px;
+    display: flex;
+    padding-right: 20px;
+    padding-left: 20px;
+
+}
+
+ul{
+    display: flex;
+}
+
+header  {
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Home{
+    display: flex;
+    padding-right: 15px; 
+    padding-left: 15px;
+    color: black;
+    font-size: 15px;
+    border: 5px #F09595 solid ;
+    background: #F09595;v
+}
+  
+.Aboutus{
+    padding-right: 30px;
+    font-size: 15px;
+    color: black;
+    border: 5px  #C4C4C4 solid ;
+    background: #C4C4C4
+}
+
+.Features{
+    padding-right: 30px;
+    font-size: 15px;
+    color: black;
+    border: 5px  #C4C4C4 solid ;
+    background: #C4C4C4
+}
+
+.Pricing{
+    padding-right: 30px;
+    font-size: 15px;
+    color: black;
+    border: 5px  #C4C4C4 solid ;
+    background: #C4C4C4;
+}
+
+p{
+    font-size: 20px;
+    width: 40%;
+}
